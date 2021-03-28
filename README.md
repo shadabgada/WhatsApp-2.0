@@ -42,12 +42,40 @@ Message timestamp
 <br>
 > npm i moment
 <br>
+
 ### Notes:
 
 - useEffect	=> Triggers when a components mount
 - Next.js does server side rendering itself based on the functions
 - Example function usage : getServerSideProps
 - easy routing in next/js	=> just /nameOfComponet
+
+<br>
+
+## Screenshots
+
+> Sign In Using Email
+![image](1.png)
+
+<br>
+
+> Loading..
+![image](2.png)
+
+<br>
+
+> New chat
+![image](3.png)
+
+<br>
+
+> Chat screen
+![image](4.png)
+
+<br>
+
+> Individuals details i.e Profile pict, email and Last seen
+![image](5.png)
 
 <br>
 
