@@ -10,6 +10,48 @@ npm run dev
 yarn dev
 ```
 
+### Dependencies
+
+>npx create-next-app whatsapp-2
+
+<br>
+
+
+Used Styled componenets for designing
+> npm add styled-components
+
+<br>
+
+> npm add react-firebase-hooks
+
+<br>
+
+To add loader
+<br>
+> npm add better-react-spinkit
+
+<br>
+
+contact last seen
+<br>
+> npm i timeago-react
+
+<br>
+
+Message timestamp
+<br>
+> npm i moment
+<br>
+### Notes:
+
+- useEffect	=> Triggers when a components mount
+- Next.js does server side rendering itself based on the functions
+- Example function usage : getServerSideProps
+- easy routing in next/js	=> just /nameOfComponet
+
+<br>
+
+## Official Documentation
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
